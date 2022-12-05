@@ -159,6 +159,11 @@ namespace mssqlex1
         {
             LoadDbTableUsingAdapter();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("newnew");
+        }
     }
 
     public class DBHelper
