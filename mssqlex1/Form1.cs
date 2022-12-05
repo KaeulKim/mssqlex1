@@ -162,7 +162,7 @@ namespace mssqlex1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("newnew");
+            MessageBox.Show("바꾸지마라~");
         }
     }
 
